@@ -3,13 +3,15 @@ h1, h2, p {
     color: rgb(1, 22, 0);
   }
 .powerwash {
-    margin-left: 75px;
+    display: block;
     border-radius: 10px;
+    margin: auto;
 }
 .ninja {
-    margin-left: 110px;
+    display: block;
     border-radius: 10px;
-}
+    margin: auto;
+}   
 .menu {
     width: 80%;
     max-width: 500px;
